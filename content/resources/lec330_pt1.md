@@ -6,6 +6,8 @@ description: This resource provides information about introduction to manufactur
 file: /courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/2bea41ddbb7efcf66b475351cb99aed1_lec330_pt1.pdf
 file_size: 466803
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
