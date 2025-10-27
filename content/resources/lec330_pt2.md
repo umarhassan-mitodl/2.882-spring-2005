@@ -6,8 +6,6 @@ description: This resource provides information for about evolution of cost, qua
 file: /courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/034f7027a6e8c5f5e982ae19fad6e401_lec330_pt2.pdf
 file_size: 492070
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
